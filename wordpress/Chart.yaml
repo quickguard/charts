@@ -1,0 +1,13 @@
+name: wordpress
+from:
+  name: wordpress
+  version: 0.1.0
+  repo: https://github.com/quickguard/charts
+home: https://ja.wordpress.org/
+version: 0.1.0
+description: The WordPress rich content management system can utilize plugins, widgets,
+  and themes.
+maintainers:
+- QuickGuard <support@quickguard.net>
+details: WordPress is a free and open source blogging tool and a content management
+  system (CMS) based on PHP and MySQL, which runs on a web hosting service.
